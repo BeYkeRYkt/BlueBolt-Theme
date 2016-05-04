@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_dark">@*common:color/theme_dark</color>
+    <color name="theme_accent">@*common:color/theme_primary</color>
+    <color name="theme_black">@*common:color/theme_black</color>
+
+    <color name="system_primary_color">@*common:color/theme_primary</color>
+    <color name="system_secondary_color">@*common:color/theme_primary_dark</color>
+    <color name="system_accent_color">@*common:color/theme_primary</color>
+    <color name="system_warning_color">@*common:color/theme_primary</color>
+
+    <color name="qs_text">@android:color/white</color>
+    <color name="qs_tile_text">@android:color/white</color>
+    <color name="qs_tile_divider">#00ffffff</color>
+    <color name="qs_detail_transition">#66FFFFFF</color>
+    <color name="qs_detail_progress_track">@android:color/white</color>
+    <color name="qs_subhead">#9900b1e5</color>
+
+    <color name="volume_icon_color">@android:color/white</color>
+    <color name="volume_settings_icon_color">@android:color/white</color>
+    <color name="volume_slider_inactive">@android:color/white</color>
+</resources>
