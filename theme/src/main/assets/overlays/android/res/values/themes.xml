@@ -14,10 +14,4 @@
         <item name="android:navigationBarColor">?android:attr/colorPrimaryDark</item>
         <item name="android:listDivider">@*common:drawable/list_divider_cyngn</item>
     </style>
-
-    <!-- Holo2Material Dark -->
-    <style name="Theme.Holo" parent="@style/Theme.Material"/>
-
-    <!-- Holo2Material Light -->
-    <style name="Theme.Holo.Light" parent="@style/Theme.Material.Light"/>
 </resources>
